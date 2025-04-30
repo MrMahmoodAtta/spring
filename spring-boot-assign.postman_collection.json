@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "fd8142be-3c8e-429f-a2ea-f86aa09a1b38",
+		"name": "spring-boot-assign",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44536116",
+		"_collection_link": "https://atta-4872042.postman.co/workspace/45b6dd8b-6376-452b-895b-ed7c04b0b2af/collection/44536116-fd8142be-3c8e-429f-a2ea-f86aa09a1b38?action=share&source=collection_link&creator=44536116"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "not-found",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Success",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
